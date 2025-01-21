@@ -52,7 +52,7 @@ public class Developer {
   </a>
   <br>
   <a href="https://github.com/AlvaroDonoso05">
-    <img widght=400px src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact" alt="Donoso005's GitHub Stats">
+    <img widght=400px src="https://github-readme-stats.vercel.app/api/wakatime?username=AlvaroDonoso05&layout=compact" alt="Donoso005's GitHub Stats">
   </a>
 </div>
 
